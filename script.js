@@ -27,34 +27,34 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Vaathi Coming",
-     path: "music/VC.mp3",
+     name: "Song 1",
+     path: "music/song1.mp3",
      img: "img/img1.jpg",
-     singer: "Anirudh Ravichander"
+     singer: "Singer"
    },
    {
-     name: "So Baby",
-     path: "music/SB.mp3",
+     name: "Song 2",
+     path: "music/song2.mp3",
      img: "img/img2.jpg",
-     singer: "Anirudh Ravichander"
+     singer: "Singer"
    },
    {
-     name: "Rakita Rakita",
-     path: "music/RRR.mp3",
+     name: "Song 3",
+     path: "music/song3.mp3",
      img: "img/img3.jpg",
-     singer: "Santhosh Narayanan"
+     singer: "Singer"
    },
    {
-     name: "Quit Pannuda",
-     path: "music/QP.mp3",
-     img: "img/img1.jpg",
-     singer: "Anirudh Ravichander"
-   },
-   {
-     name: "Rendu Kadhal",
-     path: "music/RK.mp3",
+     name: "Song 4",
+     path: "music/song4.mp3",
      img: "img/img4.jpg",
-     singer: "Anirudh Ravichander"
+     singer: "Singer"
+   },
+   {
+     name: "Song 5",
+     path: "music/song5.mp3",
+     img: "img/img5.jpg",
+     singer: "Singer"
    }
 ];
 
